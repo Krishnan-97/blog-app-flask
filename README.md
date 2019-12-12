@@ -1,6 +1,6 @@
 # blog-app-flask
 
-Run the app in virtual environment.
+Run the app in virtual environment(example.py).
 Make migrations and install required dependencies.
 required dependencies:
 Flask-wtf
